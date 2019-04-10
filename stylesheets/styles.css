@@ -89,7 +89,7 @@ body {
   width: 40px;
 }
 
-.btn {
+button {
   border: 0;
   border-radius: 100%;
   bottom: 10px;
@@ -101,17 +101,17 @@ body {
   width: 50px;
 }
 
-.btn.start,
-.btn.stop {
+.btn-start,
+.btn-stop {
   left: 10px;
 }
 
-.btn.reset,
-.btn.split {
+.btn-reset,
+.btn-split {
   right: 10px;
 }
 
-.btn.start { background: #5fca5f; }
-.btn.stop  { background: #f14949; }
-.btn.reset { background: #908e8e; }
-.btn.split { background: #0851ab; }
+.btn-start { background: #5fca5f; }
+.btn-stop  { background: #f14949; }
+.btn-reset { background: #908e8e; }
+.btn-split { background: #0851ab; }
